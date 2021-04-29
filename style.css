@@ -1,0 +1,23 @@
+header {
+  background-color: #8d0909;
+  text-align: center;
+  color: #eaf0e9;
+}
+.brd {
+  border: 3px dashed #111111;
+}
+.blue {
+  color: #1429e7;
+}
+section {
+  margin-left: 25%;
+}
+p {
+  font-size: 18px;
+}
+footer {
+  background-color: #080101;
+  font-size: 20px;
+  text-align: center;
+  color: #eaf0e9;
+}
